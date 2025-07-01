@@ -1,11 +1,11 @@
 {
 	"name": "@travelnetsolutions/ngx-intl-tel-input",
-	"version": "6.0.0",
+	"version": "7.0.0",
 	"peerDependencies": {
-		"@angular/common": "15.x - 19.x",
-		"@angular/core": "15.x - 19.x",
-		"@angular/forms": "15.x - 19.x",
-		"@ng-bootstrap/ng-bootstrap": "15.x - 19.x",
+		"@angular/common": "15.x - 20.x",
+		"@angular/core": "15.x - 20.x",
+		"@angular/forms": "15.x - 20.x",
+		"@ng-bootstrap/ng-bootstrap": "15.x - 20.x",
 		"google-libphonenumber": "^3.2.34",
 		"intl-tel-input": "^22.0.2"
 	},
@@ -14,8 +14,8 @@
 		"url": "https://github.com/travelnetsolutions/ngx-intl-tel-input"
 	},
 	"author": {
-		"name": "Andrew Darts",
-		"email": "adarts@tnsinc.com"
+		"name": "Yanesh Tyagi",
+		"email": "ytyagi@tnsinc.com"
 	},
 	"keywords": [
 		"angular",
@@ -29,6 +29,7 @@
 		"angular 17",
 		"angular 18",
 		"angular 19",
+		"angular 20",
 		"intl-tel-input",
 		"phone number",
 		"validation"

@@ -6,7 +6,7 @@
 		"@angular/core": "15.x - 20.x",
 		"@angular/forms": "15.x - 20.x",
 		"@ng-bootstrap/ng-bootstrap": "15.x - 20.x",
-		"google-libphonenumber": "^3.2.34",
+		"google-libphonenumber": "^3.2.42",
 		"intl-tel-input": "^22.0.2"
 	},
 	"repository": {

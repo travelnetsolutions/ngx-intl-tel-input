@@ -1,6 +1,6 @@
 {
 	"name": "@travelnetsolutions/ngx-intl-tel-input",
-	"version": "7.0.0-alpha-1",
+	"version": "7.0.0-alpha-2",
 	"peerDependencies": {
 		"@angular/common": "15.x - 20.x",
 		"@angular/core": "15.x - 20.x",

@@ -1,13 +1,13 @@
 {
 	"name": "@travelnetsolutions/ngx-intl-tel-input",
-	"version": "3.1.2",
+	"version": "3.5.0",
 	"peerDependencies": {
-		"@angular/common": "8.x - 12.x",
-		"@angular/core": "8.x - 12.x",
-		"@angular/forms": "8.x - 12.x",
-		"google-libphonenumber": "^3.2.3",
-		"intl-tel-input": "^17.0.3",
-		"@ng-bootstrap/ng-bootstrap": "^9.1.3"
+		"@angular/common": "12.x - 14.x",
+		"@angular/core": "12.x - 14.x",
+		"@angular/forms": "12.x - 14.x",
+		"google-libphonenumber": "^3.2.34",
+		"intl-tel-input": "^22",
+		"@ng-bootstrap/ng-bootstrap": "^12"
 	},
 	"repository": {
 		"type": "git",
@@ -22,10 +22,7 @@
 		"ng8",
 		"ng9",
 		"ng10",
-		"angular 8",
-		"angular 9",
-		"angular 10",
-		"angular 11",
+		"angular 12",
 		"intl-tel-input",
 		"phone number",
 		"validation"
@@ -35,7 +32,7 @@
 		"url": "https://github.com/travelnetsolutions/ngx-intl-tel-input/issues"
 	},
 	"devDependencies": {
-		"@types/google-libphonenumber": "^7.4.17"
+		"@types/google-libphonenumber": "^7.4.30"
 	},
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com/@travelnetsolutions"
